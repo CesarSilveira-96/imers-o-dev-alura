@@ -1,56 +1,132 @@
-# 🔴 Galeria de Jogadores: Lendas e Elenco Atual do Manchester United
+# 🔴 Galeria de Jogadores — Lendas e Elenco Atual do Manchester United
 
-[![Manchester United](https://1.bp.blogspot.com/-3tdzQ6V5OYI/Xh_9oXxzh6I/AAAAAAAAPXU/5_xSGlXgERQKei0OVMlW6YOSYlhLJWswgCLcBGAsYHQ/s1600/Logo%2BDream%2BLeague%2BSoccer%2BManchester%2BUnited%2B2020.png)]()
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![Status do Projeto](https://img.shields.io/badge/Status-Concluído-success)](https://github.com/SeuUsuario/SeuRepositorio)
+<p align="center">
+  <img src="https://1.bp.blogspot.com/-3tdzQ6V5OYI/Xh_9oXxzh6I/AAAAAAAAPXU/5_xSGlXgERQKei0OVMlW6YOSYlhLJWswgCLcBGAsYHQ/s1600/Logo%2BDream%2BLeague%2BSoccer%2BManchester%2BUnited%2B2020.png" 
+       alt="Manchester United Logo" 
+       width="120">
+</p>
 
-## 🎯 Sobre o Projeto
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  </a>
+  <img src="https://img.shields.io/badge/Status-Concluído-brightgreen" alt="Status">
+</p>
 
-Este projeto é uma **Galeria Digital Interativa** focada no Manchester United, desenvolvida como parte da **Imersão Dev da Alura**. O objetivo principal foi consolidar habilidades de Front-end para criar uma aplicação dinâmica que exibe, de forma organizada, o elenco atual e as lendas históricas do clube.
+---
 
-A aplicação demonstra a capacidade de consumir e manipular dados externos (JSON) para renderizar uma interface rica e responsiva, separando a lógica de apresentação dos dados.
+## Sobre o Projeto
 
-## ✨ Demonstração e Funcionalidades
+Este repositório contém uma **Galeria Digital Interativa** dedicada a jogadores do **Manchester United**, incluindo ídolos históricos e o elenco atual.
+O projeto foi desenvolvido durante a **Imersão Dev da Alura com Google Gemini**, reforçando habilidades essenciais de **HTML, CSS e JavaScript**, além do uso do **Google Gemini Code Assist** para revisão, refatoração e aplicação de boas práticas.
 
-A galeria apresenta os jogadores em formato de *cards* detalhados, permitindo uma navegação intuitiva.
+A aplicação ilustra o consumo e manipulação de dados externos (via JSON) para renderizar informações de forma dinâmica, responsiva e organizada.
 
-![Screenshot da Aplicação](./assets/screenshot.png)
+---
 
-### Principais Características
+## ➪ Demonstração
 
-* **Listagem Dinâmica:** Renderização de jogadores a partir de uma fonte de dados externa (`data.json`).
-* **Cards Detalhados:** Exibição de informações-chave como nome, posição, nacionalidade, idade e um breve resumo de carreira e conquistas.
-* **Design Responsivo:** O layout se adapta perfeitamente a diferentes dispositivos (desktop, tablet e mobile), garantindo uma User Experience (UX) consistente.
-* **Estrutura de Dados (JSON):** Utilização de JSON para simular um banco de dados simples, praticando a separação de *data* e *view*.
+A aplicação pode ser acessada aqui:
+**[https://cesarsilveira-96.github.io/imers-o-dev-alura/](https://cesarsilveira-96.github.io/imers-o-dev-alura/)**
 
-## ⚙️ Tecnologias e Metodologias
+### ➪ Exemplo da aplicação em uso:
 
-| Categoria | Tecnologia / Ferramenta | Aplicação no Projeto |
-| :--- | :--- | :--- |
-| **Estrutura** | HTML5 (Semântico) | Organização do conteúdo e hierarquia da informação. |
-| **Estilização** | CSS3 | Aplicação de design (Grid Layout, Flexbox) e criação de um tema visualmente atraente. |
-| **Lógica** | JavaScript (ES6+) | Consumo de dados (`fetch` API), manipulação eficiente do DOM e lógica de renderização dinâmica. |
-| **Dados** | JSON | Armazenamento estruturado das informações dos jogadores. |
-| **Produtividade** | Gemini Code Assist | Ferramenta de IA utilizada para auxílio na revisão de código, refatoração e sugestão de padrões de melhoria. |
+![Screenshot da Aplicação](./static/assets/screenshot.png)
 
-## 🚀 Como Executar o Projeto Localmente
+---
 
-Para rodar este projeto em seu ambiente de desenvolvimento, siga os passos abaixo:
+## ➪ Funcionalidades
 
-1.  **Clone o Repositório:**
-    ```bash
-    git clone [https://github.com/SeuUsuario/SeuRepositorio.git](https://github.com/SeuUsuario/SeuRepositorio.git)
-    cd SeuRepositorio
-    ```
-2.  **Abra o `index.html`:**
-    Como o projeto não utiliza um servidor *backend* complexo (apenas o consumo de um JSON local), você pode simplesmente abrir o arquivo `index.html` em seu navegador.
-3.  **Alternativa (Recomendada):**
-    Para simular um ambiente de produção e garantir que a requisição `fetch` do JSON funcione corretamente (especialmente em alguns navegadores), utilize a extensão **Live Server** (VS Code) ou inicie um servidor HTTP local simples.
+* **Listagem Dinâmica de Jogadores**: Dados carregados a partir de um arquivo `data.json`.
+* **Cards Informativos**: Nome, posição, idade, nacionalidade, foto e breve descrição.
+* **Interface Responsiva**: Layout adaptado para desktop, tablet e mobile.
+* **Busca Inteligente**: Filtragem por nome para facilitar a navegação.
+* **Arquitetura Simples e Escalável**: Separação entre dados, lógica e apresentação.
 
-## 📁 Estrutura do Repositório
+---
 
-├── 📄 index.html # Estrutura principal ├── 📄 script.js # Lógica de programação (Manipulação do DOM) ├── 📄 data.json # Fonte de dados dos jogadores (JSON) ├── 📄 README.md # Documentação do projeto ├── 📁 static/ │ ├── 📁 assets/ # Imagens dos jogadores e visuais do site │ └── 📁 css/
+## ➪ Tecnologias e Metodologias Utilizadas
 
-│ └── 📄 style.css # Folha de estilos principal
+| Categoria         | Tecnologia / Ferramenta | Aplicação                                                    |
+| ----------------- | ----------------------- | ------------------------------------------------------------ |
+| **Estrutura**     | HTML5 (semântico)       | Estruturação do conteúdo e boas práticas de acessibilidade.  |
+| **Estilização**   | CSS3                    | Layout responsivo, Flexbox, Grid e estilização dos cards.    |
+| **Lógica**        | JavaScript ES6+         | Consumo de JSON, manipulação de DOM e renderização dinâmica. |
+| **Dados**         | JSON                    | Simulação de banco de dados simples.                         |
+| **Produtividade** | Gemini Code Assist      | Revisão de código, sugestões e boas práticas.                |
+
+---
+
+## ➪ Como Executar Localmente
+
+1. **Clone o repositório**
+
+```bash
+git clone https://github.com/SeuUsuario/SeuRepositorio.git
+cd SeuRepositorio
+```
+
+2. **Execute a aplicação**
+
+Como o projeto consome um arquivo JSON local, alguns navegadores bloqueiam requisições `fetch` sem servidor. Use uma das opções:
+
+### ✔️ Opção recomendada — Live Server (VS Code)
+
+* Clique com o botão direito em `index.html`
+* Selecione **"Open with Live Server"**
+
+### ✔️ Opção alternativa — Servidor HTTP simples
+
+Python:
+
+```bash
+python -m http.server
+```
+
+Node.js:
+
+```bash
+npx http-server .
+```
+
+Depois abra no navegador:
+`http://localhost:8080` ou similar.
+
+---
+
+## ➪ Estrutura do Repositório
+
+```
+📦 projeto-manutd-galeria
+├── index.html              # Estrutura principal da aplicação
+├── script.js               # Lógica de renderização e busca
+├── data.json               # Base de dados de jogadores (JSON)
+├── README.md               # Documentação do repositório
+└── static/
+    ├── assets/             # Imagens e recursos visuais
+    │   └── screenshot.png
+    └── css/
+        └── style.css       # Estilos da aplicação
+```
+
+---
+
+## ➪ Próximas Melhorias (Backlog Sugerido)
+
+* Integração com API real de futebol.
+* Página individual para cada jogador.
+* Inclusão de elenco feminino (MUWFC).
+* Modo escuro automático via prefers-color-scheme.
+* Filtro avançado por posição, idade e nacionalidade.
+* Refatoração para componentes com Web Components ou Framework JS.
+
+---
+
+## **Conecte-se comigo:**
+* Linkedin: [https://www.linkedin.com/in/cesar-silveira/](https://www.linkedin.com/in/cesar-silveira/)**
