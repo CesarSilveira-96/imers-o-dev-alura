@@ -237,6 +237,15 @@
   ],
   "lendas": [
     {
+      "nome": "Andy Cole",
+      "posicao": "Atacante (ATA)",
+      "nascimento": "15 de outubro de 1971 (53 anos)",
+      "nacionalidade": "Inglês (ENG)",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Andy_Cole",
+      "stats": "https://www.manutd.com/en/players-and-staff/legends/andy-cole-stats",
+      "resumo": "Artilheiro implacável e oportunista. Exímio finalizador, foi fundamental na conquista de cinco títulos da Premier League."
+    },
+    {
       "nome": "Sir Bobby Charlton",
       "posicao": "Meio-campista (MC)",
       "nascimento": "11 de outubro de 1937 (86 anos)",
@@ -245,24 +254,7 @@
       "stats": "https://www.manutd.com/en/players-and-staff/legends/bobby-charlton-stats",
       "resumo": "Lenda imortal do clube e do futebol mundial, sobrevivente do desastre de Munique. Vencedor da Bola de Ouro (1966) e ícone de Old Trafford, conhecido por seus chutes poderosos."
     },
-    {
-      "nome": "George Best",
-      "posicao": "Ponta Direita (PD)",
-      "nascimento": "22 de maio de 1946 (78 anos)",
-      "nacionalidade": "Norte-Irlandês (NIR)",
-      "wikipedia": "https://pt.wikipedia.org/wiki/George_Best",
-      "stats": "https://www.manutd.com/en/players-and-staff/legends/george-best-stats",
-      "resumo": "Apelidado de 'O Quinto Beatle', foi um driblador incomparável, conhecido por seu talento puro, velocidade e carisma dentro e fora de campo."
-    },
-    {
-      "nome": "Denis Law",
-      "posicao": "Atacante (ATA)",
-      "nascimento": "24 de fevereiro de 1940 (84 anos)",
-      "nacionalidade": "Escocês (SCO)",
-      "wikipedia": "https://pt.wikipedia.org/wiki/Denis_Law",
-      "stats": "https://www.manutd.com/en/players-and-staff/legends/denis-law-stats",
-      "resumo": "Conhecido como 'The King' (O Rei), parte da Santíssima Trindade. Um atacante prolífico, conhecido por seus movimentos acrobáticos e faro de gol."
-    },
+
     {
       "nome": "Bryan Robson",
       "posicao": "Meio-campista (MC)",
@@ -272,42 +264,17 @@
       "stats": "https://www.manutd.com/en/players-and-staff/legends/bryan-robson-stats",
       "resumo": "O 'Captain Marvel' (Capitão Maravilha), capitão que serviu o clube com distinção por muitos anos, símbolo de coragem, garra e liderança no meio-campo."
     },
+
     {
-      "nome": "Eric Cantona",
+      "nome": "Denis Law",
       "posicao": "Atacante (ATA)",
-      "nascimento": "24 de maio de 1966 (58 anos)",
-      "nacionalidade": "Francês (FRA)",
-      "wikipedia": "https://pt.wikipedia.org/wiki/Eric_Cantona",
-      "stats": "https://www.manutd.com/en/players-and-staff/legends/eric-cantona-stats",
-      "resumo": "O Rei Eric foi o catalisador do ressurgimento do United na Premier League, conhecido por sua técnica sublime, passes criativos e personalidade dominante."
+      "nascimento": "24 de fevereiro de 1940 (84 anos)",
+      "nacionalidade": "Escocês (SCO)",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Denis_Law",
+      "stats": "https://www.manutd.com/en/players-and-staff/legends/denis-law-stats",
+      "resumo": "Conhecido como 'The King' (O Rei), parte da Santíssima Trindade. Um atacante prolífico, conhecido por seus movimentos acrobáticos e faro de gol."
     },
-    {
-      "nome": "Peter Schmeichel",
-      "posicao": "Goleiro (GOL)",
-      "nascimento": "18 de novembro de 1963 (61 anos)",
-      "nacionalidade": "Dinamarquês (DEN)",
-      "wikipedia": "https://pt.wikipedia.org/wiki/Peter_Schmeichel",
-      "stats": "https://www.manutd.com/en/players-and-staff/legends/peter-schmeichel-stats",
-      "resumo": "Um dos maiores goleiros da história do futebol, famoso por suas defesas espetaculares e por ser uma figura imponente e líder na defesa, crucial na Tríplice Coroa de 1999."
-    },
-    {
-      "nome": "Paul Scholes",
-      "posicao": "Meio-campista (MC)",
-      "nascimento": "16 de novembro de 1974 (50 anos)",
-      "nacionalidade": "Inglês (ENG)",
-      "wikipedia": "https://pt.wikipedia.org/wiki/Paul_Scholes",
-      "stats": "https://www.manutd.com/en/players-and-staff/legends/paul-scholes-stats",
-      "resumo": "Mestre do passe e da visão de jogo, Scholes foi o cérebro do meio-campo por duas décadas. Conhecido por seus chutes de longa distância e lealdade ao clube."
-    },
-    {
-      "nome": "Ryan Giggs",
-      "posicao": "Ponta Esquerda (PE)",
-      "nascimento": "29 de novembro de 1973 (51 anos)",
-      "nacionalidade": "Galês (WAL)",
-      "wikipedia": "https://pt.wikipedia.org/wiki/Ryan_Giggs",
-      "stats": "https://www.manutd.com/en/players-and-staff/legends/ryan-giggs-stats",
-      "resumo": "O jogador mais vitorioso da história do clube, detentor de inúmeros recordes. Ponta de pura velocidade e habilidade, com uma carreira que durou mais de 20 anos."
-    },
+
     {
       "nome": "David Beckham",
       "posicao": "Meio-campista/Ponta (MD)",
@@ -316,24 +283,6 @@
       "wikipedia": "https://pt.wikipedia.org/wiki/David_Beckham",
       "stats": "https://www.manutd.com/en/players-and-staff/legends/david-beckham-stats",
       "resumo": "Ícone global e um dos melhores cruzadores e cobradores de falta da história. Parte fundamental da 'Class of '92' e campeão da Tríplice Coroa."
-    },
-    {
-      "nome": "Roy Keane",
-      "posicao": "Meio-campista Defensivo (MCD)",
-      "nascimento": "10 de agosto de 1971 (53 anos)",
-      "nacionalidade": "Irlandês (IRL)",
-      "wikipedia": "https://pt.wikipedia.org/wiki/Roy_Keane",
-      "stats": "https://www.manutd.com/en/players-and-staff/legends/roy-keane-stats",
-      "resumo": "Um dos capitães mais temidos e influentes. Um meio-campista implacável, símbolo de determinação e exigência que liderou a equipe à glória."
-    },
-    {
-      "nome": "Gary Neville",
-      "posicao": "Lateral Direita (LD)",
-      "nascimento": "18 de fevereiro de 1975 (49 anos)",
-      "nacionalidade": "Inglês (ENG)",
-      "wikipedia": "https://pt.wikipedia.org/wiki/Gary_Neville",
-      "stats": "https://www.manutd.com/en/players-and-staff/legends/gary-neville-stats",
-      "resumo": "Lateral direito dedicado e altamente competitivo, que dedicou toda a sua carreira ao Manchester United. Um líder leal e parte da 'Class of '92'."
     },
     {
       "nome": "Denis Irwin",
@@ -345,40 +294,13 @@
       "resumo": "O lateral mais consistente e confiável da era Ferguson, capaz de jogar em ambos os flancos e um excelente cobrador de pênaltis e faltas."
     },
     {
-      "nome": "Ole Gunnar Solskjær",
-      "posicao": "Atacante (ATA)",
-      "nascimento": "26 de fevereiro de 1973 (51 anos)",
-      "nacionalidade": "Norueguês (NOR)",
-      "wikipedia": "https://pt.wikipedia.org/wiki/Ole_Gunnar_Solskj%C3%A6r",
-      "stats": "https://www.manutd.com/en/players-and-staff/legends/ole-gunnar-solskjaer-stats",
-      "resumo": "O 'Assassino com Rosto de Bebê', famoso por sua capacidade de marcar gols cruciais vindo do banco, incluindo o gol da vitória na final da UCL de 1999."
-    },
-    {
-      "nome": "Nemanja Vidić",
-      "posicao": "Zagueiro (ZAG)",
-      "nascimento": "21 de outubro de 1981 (43 anos)",
-      "nacionalidade": "Sérvio (SRB)",
-      "wikipedia": "https://pt.wikipedia.org/wiki/Nemanja_Vidi%C4%87",
-      "stats": "https://www.manutd.com/en/players-and-staff/legends/nemanja-vidic-stats",
-      "resumo": "Defensor central destemido e fisicamente dominante. Sua parceria com Rio Ferdinand formou uma das melhores duplas de zaga da história da Premier League."
-    },
-    {
-      "nome": "Ruud van Nistelrooy",
-      "posicao": "Atacante (ATA)",
-      "nascimento": "1 de julho de 1976 (48 anos)",
-      "nacionalidade": "Holandês (NED)",
-      "wikipedia": "https://pt.wikipedia.org/wiki/Ruud_van_Nistelrooy",
-      "stats": "https://www.manutd.com/en/players-and-staff/legends/ruud-van-nistelrooy-stats",
-      "resumo": "Máquina de gols, conhecido por seu instinto predatório dentro da área. Um dos atacantes mais clínicos que já vestiu a camisa do United."
-    },
-    {
-      "nome": "Wayne Rooney",
-      "posicao": "Atacante (ATA)",
-      "nascimento": "24 de outubro de 1985 (39 anos)",
+      "nome": "Duncan Edwards",
+      "posicao": "Meio-campista (MC)",
+      "nascimento": "1 de outubro de 1936 (falecido em 1958)",
       "nacionalidade": "Inglês (ENG)",
-      "wikipedia": "https://pt.wikipedia.org/wiki/Wayne_Rooney",
-      "stats": "https://www.manutd.com/en/players-and-staff/legends/wayne-rooney-stats",
-      "resumo": "Maior artilheiro da história do clube e da seleção inglesa. Atacante versátil e poderoso, combinando força, técnica e uma incrível ética de trabalho."
+      "wikipedia": "https://pt.wikipedia.org/wiki/Duncan_Edwards",
+      "stats": "https://www.manutd.com/en/players-and-staff/legends/duncan-edwards-stats",
+      "resumo": "Considerado por muitos como o maior talento que o futebol inglês já produziu. Vítima do desastre aéreo de Munique, era um meio-campista incrivelmente forte e versátil."
     },
     {
       "nome": "Dwight Yorke",
@@ -390,24 +312,6 @@
       "resumo": "Peça chave na temporada da Tríplice Coroa, formou uma parceria de ataque lendária com Andy Cole. Conhecido por seu sorriso e estilo alegre de jogar."
     },
     {
-      "nome": "Andy Cole",
-      "posicao": "Atacante (ATA)",
-      "nascimento": "15 de outubro de 1971 (53 anos)",
-      "nacionalidade": "Inglês (ENG)",
-      "wikipedia": "https://pt.wikipedia.org/wiki/Andy_Cole",
-      "stats": "https://www.manutd.com/en/players-and-staff/legends/andy-cole-stats",
-      "resumo": "Artilheiro implacável e oportunista. Exímio finalizador, foi fundamental na conquista de cinco títulos da Premier League."
-    },
-    {
-      "nome": "Rio Ferdinand",
-      "posicao": "Zagueiro (ZAG)",
-      "nascimento": "7 de novembro de 1978 (46 anos)",
-      "nacionalidade": "Inglês (ENG)",
-      "wikipedia": "https://pt.wikipedia.org/wiki/Rio_Ferdinand",
-      "stats": "https://www.manutd.com/en/players-and-staff/legends/rio-ferdinand-stats",
-      "resumo": "Zagueiro moderno, elegante e talentoso com a bola nos pés. Sua qualidade técnica permitia que ele iniciasse ataques a partir da defesa."
-    },
-    {
       "nome": "Edwin van der Sar",
       "posicao": "Goleiro (GOL)",
       "nascimento": "29 de outubro de 1970 (54 anos)",
@@ -417,22 +321,31 @@
       "resumo": "Goleiro calmo e imponente, conhecido por seu recorde de minutos sem sofrer gols. Foi o sucessor de Schmeichel e crucial na vitória da UCL de 2008."
     },
     {
-      "nome": "Steve Bruce",
-      "posicao": "Zagueiro (ZAG)",
-      "nascimento": "23 de dezembro de 1960 (63 anos)",
-      "nacionalidade": "Inglês (ENG)",
-      "wikipedia": "https://pt.wikipedia.org/wiki/Steve_Bruce",
-      "stats": "https://www.manutd.com/en/players-and-staff/legends/steve-bruce-stats",
-      "resumo": "Capitão do clube e líder da defesa no início da era Ferguson. Famoso por ser um dos zagueiros mais artilheiros da história do United."
+      "nome": "Eric Cantona",
+      "posicao": "Atacante (ATA)",
+      "nascimento": "24 de maio de 1966 (58 anos)",
+      "nacionalidade": "Francês (FRA)",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Eric_Cantona",
+      "stats": "https://www.manutd.com/en/players-and-staff/legends/eric-cantona-stats",
+      "resumo": "O Rei Eric foi o catalisador do ressurgimento do United na Premier League, conhecido por sua técnica sublime, passes criativos e personalidade dominante."
     },
     {
-      "nome": "Mark Hughes",
-      "posicao": "Atacante (ATA)",
-      "nascimento": "1 de novembro de 1963 (61 anos)",
-      "nacionalidade": "Galês (WAL)",
-      "wikipedia": "https://pt.wikipedia.org/wiki/Mark_Hughes",
-      "stats": "https://www.manutd.com/en/players-and-staff/legends/mark-hughes-stats",
-      "resumo": "Atacante conhecido como 'Sparky', famoso por sua força física e capacidade de marcar gols espetaculares de voleio ou em jogadas acrobáticas."
+      "nome": "Gary Neville",
+      "posicao": "Lateral Direita (LD)",
+      "nascimento": "18 de fevereiro de 1975 (49 anos)",
+      "nacionalidade": "Inglês (ENG)",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Gary_Neville",
+      "stats": "https://www.manutd.com/en/players-and-staff/legends/gary-neville-stats",
+      "resumo": "Lateral direito dedicado e altamente competitivo, que dedicou toda a sua carreira ao Manchester United. Um líder leal e parte da 'Class of '92'."
+    },
+    {
+      "nome": "George Best",
+      "posicao": "Ponta Direita (PD)",
+      "nascimento": "22 de maio de 1946 (78 anos)",
+      "nacionalidade": "Norte-Irlandês (NIR)",
+      "wikipedia": "https://pt.wikipedia.org/wiki/George_Best",
+      "stats": "https://www.manutd.com/en/players-and-staff/legends/george-best-stats",
+      "resumo": "Apelidado de 'O Quinto Beatle', foi um driblador incomparável, conhecido por seu talento puro, velocidade e carisma dentro e fora de campo."
     },
     {
       "nome": "Jaap Stam",
@@ -444,15 +357,6 @@
       "resumo": "Defensor central holandês, famoso por sua força bruta, velocidade e estilo de jogo agressivo. Foi peça chave na conquista da Tríplice Coroa de 1999."
     },
     {
-      "nome": "Teddy Sheringham",
-      "posicao": "Atacante (ATA)",
-      "nascimento": "2 de abril de 1966 (58 anos)",
-      "nacionalidade": "Inglês (ENG)",
-      "wikipedia": "https://pt.wikipedia.org/wiki/Teddy_Sheringham",
-      "stats": "https://www.manutd.com/en/players-and-staff/legends/teddy-sheringham-stats",
-      "resumo": "Atacante inteligente, conhecido por sua visão e capacidade de ligação. Marcou o gol de empate crucial na final da Liga dos Campeões de 1999."
-    },
-    {
       "nome": "Lou Macari",
       "posicao": "Meio-campista Ofensivo (MOC)",
       "nascimento": "7 de junho de 1949 (75 anos)",
@@ -462,13 +366,112 @@
       "resumo": "Meio-campista escocês que se tornou um favorito dos fãs nos anos 70 e 80, conhecido por sua paixão, garra e trabalho incansável em campo."
     },
     {
-      "nome": "Duncan Edwards",
+      "nome": "Mark Hughes",
+      "posicao": "Atacante (ATA)",
+      "nascimento": "1 de novembro de 1963 (61 anos)",
+      "nacionalidade": "Galês (WAL)",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Mark_Hughes",
+      "stats": "https://www.manutd.com/en/players-and-staff/legends/mark-hughes-stats",
+      "resumo": "Atacante conhecido como 'Sparky', famoso por sua força física e capacidade de marcar gols espetaculares de voleio ou em jogadas acrobáticas."
+    },
+    {
+      "nome": "Nemanja Vidić",
+      "posicao": "Zagueiro (ZAG)",
+      "nascimento": "21 de outubro de 1981 (43 anos)",
+      "nacionalidade": "Sérvio (SRB)",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Nemanja_Vidi%C4%87",
+      "stats": "https://www.manutd.com/en/players-and-staff/legends/nemanja-vidic-stats",
+      "resumo": "Defensor central destemido e fisicamente dominante. Sua parceria com Rio Ferdinand formou uma das melhores duplas de zaga da história da Premier League."
+    },
+    {
+      "nome": "Ole Gunnar Solskjær",
+      "posicao": "Atacante (ATA)",
+      "nascimento": "26 de fevereiro de 1973 (51 anos)",
+      "nacionalidade": "Norueguês (NOR)",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Ole_Gunnar_Solskj%C3%A6r",
+      "stats": "https://www.manutd.com/en/players-and-staff/legends/ole-gunnar-solskjaer-stats",
+      "resumo": "O 'Assassino com Rosto de Bebê', famoso por sua capacidade de marcar gols cruciais vindo do banco, incluindo o gol da vitória na final da UCL de 1999."
+    },
+    {
+      "nome": "Paul Scholes",
       "posicao": "Meio-campista (MC)",
-      "nascimento": "1 de outubro de 1936 (falecido em 1958)",
+      "nascimento": "16 de novembro de 1974 (50 anos)",
       "nacionalidade": "Inglês (ENG)",
-      "wikipedia": "https://pt.wikipedia.org/wiki/Duncan_Edwards",
-      "stats": "https://www.manutd.com/en/players-and-staff/legends/duncan-edwards-stats",
-      "resumo": "Considerado por muitos como o maior talento que o futebol inglês já produziu. Vítima do desastre aéreo de Munique, era um meio-campista incrivelmente forte e versátil."
+      "wikipedia": "https://pt.wikipedia.org/wiki/Paul_Scholes",
+      "stats": "https://www.manutd.com/en/players-and-staff/legends/paul-scholes-stats",
+      "resumo": "Mestre do passe e da visão de jogo, Scholes foi o cérebro do meio-campo por duas décadas. Conhecido por seus chutes de longa distância e lealdade ao clube."
+    },
+    {
+      "nome": "Peter Schmeichel",
+      "posicao": "Goleiro (GOL)",
+      "nascimento": "18 de novembro de 1963 (61 anos)",
+      "nacionalidade": "Dinamarquês (DEN)",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Peter_Schmeichel",
+      "stats": "https://www.manutd.com/en/players-and-staff/legends/peter-schmeichel-stats",
+      "resumo": "Um dos maiores goleiros da história do futebol, famoso por suas defesas espetaculares e por ser uma figura imponente e líder na defesa, crucial na Tríplice Coroa de 1999."
+    },
+    {
+      "nome": "Rio Ferdinand",
+      "posicao": "Zagueiro (ZAG)",
+      "nascimento": "7 de novembro de 1978 (46 anos)",
+      "nacionalidade": "Inglês (ENG)",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Rio_Ferdinand",
+      "stats": "https://www.manutd.com/en/players-and-staff/legends/rio-ferdinand-stats",
+      "resumo": "Zagueiro moderno, elegante e talentoso com a bola nos pés. Sua qualidade técnica permitia que ele iniciasse ataques a partir da defesa."
+    },
+    {
+      "nome": "Roy Keane",
+      "posicao": "Meio-campista Defensivo (MCD)",
+      "nascimento": "10 de agosto de 1971 (53 anos)",
+      "nacionalidade": "Irlandês (IRL)",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Roy_Keane",
+      "stats": "https://www.manutd.com/en/players-and-staff/legends/roy-keane-stats",
+      "resumo": "Um dos capitães mais temidos e influentes. Um meio-campista implacável, símbolo de determinação e exigência que liderou a equipe à glória."
+    },
+    {
+      "nome": "Ryan Giggs",
+      "posicao": "Ponta Esquerda (PE)",
+      "nascimento": "29 de novembro de 1973 (51 anos)",
+      "nacionalidade": "Galês (WAL)",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Ryan_Giggs",
+      "stats": "https://www.manutd.com/en/players-and-staff/legends/ryan-giggs-stats",
+      "resumo": "O jogador mais vitorioso da história do clube, detentor de inúmeros recordes. Ponta de pura velocidade e habilidade, com uma carreira que durou mais de 20 anos."
+    },
+    {
+      "nome": "Ruud van Nistelrooy",
+      "posicao": "Atacante (ATA)",
+      "nascimento": "1 de julho de 1976 (48 anos)",
+      "nacionalidade": "Holandês (NED)",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Ruud_van_Nistelrooy",
+      "stats": "https://www.manutd.com/en/players-and-staff/legends/ruud-van-nistelrooy-stats",
+      "resumo": "Máquina de gols, conhecido por seu instinto predatório dentro da área. Um dos atacantes mais clínicos que já vestiu a camisa do United."
+    },
+    {
+      "nome": "Steve Bruce",
+      "posicao": "Zagueiro (ZAG)",
+      "nascimento": "23 de dezembro de 1960 (63 anos)",
+      "nacionalidade": "Inglês (ENG)",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Steve_Bruce",
+      "stats": "https://www.manutd.com/en/players-and-staff/legends/steve-bruce-stats",
+      "resumo": "Capitão do clube e líder da defesa no início da era Ferguson. Famoso por ser um dos zagueiros mais artilheiros da história do United."
+    },
+    {
+      "nome": "Teddy Sheringham",
+      "posicao": "Atacante (ATA)",
+      "nascimento": "2 de abril de 1966 (58 anos)",
+      "nacionalidade": "Inglês (ENG)",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Teddy_Sheringham",
+      "stats": "https://www.manutd.com/en/players-and-staff/legends/teddy-sheringham-stats",
+      "resumo": "Atacante inteligente, conhecido por sua visão e capacidade de ligação. Marcou o gol de empate crucial na final da Liga dos Campeões de 1999."
+    },
+    {
+      "nome": "Wayne Rooney",
+      "posicao": "Atacante (ATA)",
+      "nascimento": "24 de outubro de 1985 (39 anos)",
+      "nacionalidade": "Inglês (ENG)",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Wayne_Rooney",
+      "stats": "https://www.manutd.com/en/players-and-staff/legends/wayne-rooney-stats",
+      "resumo": "Maior artilheiro da história do clube e da seleção inglesa. Atacante versátil e poderoso, combinando força, técnica e uma incrível ética de trabalho."
     }
   ]
 }
